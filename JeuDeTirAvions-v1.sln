@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDeTirAvions-v1", "JeuDeTirAvions-v1\JeuDeTirAvions-v1.csproj", "{864352A2-9559-411C-B2A7-1EB3BB06F792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuDeTirAvions-v1.Web", "JeuDeTirAvions-v1.Web\JeuDeTirAvions-v1.Web.csproj", "{B926EE92-D4FB-4935-B919-C374AA6F79BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864352A2-9559-411C-B2A7-1EB3BB06F792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864352A2-9559-411C-B2A7-1EB3BB06F792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864352A2-9559-411C-B2A7-1EB3BB06F792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864352A2-9559-411C-B2A7-1EB3BB06F792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B926EE92-D4FB-4935-B919-C374AA6F79BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B926EE92-D4FB-4935-B919-C374AA6F79BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B926EE92-D4FB-4935-B919-C374AA6F79BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B926EE92-D4FB-4935-B919-C374AA6F79BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
